@@ -1,6 +1,6 @@
 # Degen Token
 
-Degen Token is an ERC20 token built on the Ethereum blockchain. It provides functionality for minting new tokens, transferring tokens, burning tokens, and redeeming tokens for in-game items.
+The Degen smart contract is an ERC20 token built on the Ethereum blockchain. It is based on OpenZeppelin's ERC20 implementation and includes additional features such as minting, burning, and token redemption for specific items.
 
 ## Getting Started
 You have to use npm init command to start this is in your own local pc
@@ -42,6 +42,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Chirag Arora
+Armaan Chahal
 
 
